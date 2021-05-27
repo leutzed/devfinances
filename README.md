@@ -1,7 +1,3 @@
-<h1 align="center">
-  <img alt="DevFinance$" title="DevFinance$" src="https://i.imgur.com/Veqm7Gh.png" width="220px" />
-</h1>
-
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -11,7 +7,7 @@
 <br>
 
 <p align="center">
-  <img alt="dev.finances" src=".github/devFinances.png" width="100%">
+  <img alt="dev.finances" src=".github/devFinances.PNG" width="100%">
 </p>
 
 ## 🚀 Tecnologias
